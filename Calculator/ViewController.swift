@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by Ivan Pushkov on 02.03.2024.
-//
+// Start
 
 import UIKit
 
